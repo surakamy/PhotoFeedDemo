@@ -10,3 +10,7 @@ The general architecture of the app is shown on the diagram and it consists of N
 
 An example of how structured and behaves UseCase
 ![UseCase Example](https://github.com/surakamy/PhotoFeedDemo/blob/main/Documents/FeedUseCase.svg)
+
+
+### Credits
+API for the feed provided by [picsum.photos](https://picsum.photos)
